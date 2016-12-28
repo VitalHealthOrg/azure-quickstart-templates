@@ -31,11 +31,7 @@
     "imageSKU": {
       "type": "string",
       "defaultValue": "2016-Datacenter",
-      "allowedValues": [
-        "2008-R2-SP1",
-        "2016-Datacenter",
-        "2012-R2-Datacenter"
-      ],
+    
       "metadata": {
         "description": "Image SKU"
       }
